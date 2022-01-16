@@ -60,6 +60,6 @@
       + Sửa lỗi hàm _GlobalImgWaitExist.
 
 ### Give me a coffee
-<a href="https://paypal.me/lamnhan066" rel="ugc"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="Paypal" /></a>
-<a href="https://www.buymeacoffee.com/lamnhan066" target="_blank" rel="ugc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" /></a>
-<a href="https://nhantien.momo.vn/nMu93PhbO97" target="_blank" rel="ugc"><img src="https://static.mservice.io/img/logo-momo.png" alt="MoMo" height="42" width="42" /></a>
+<a href="https://www.facebook.com/nhoke.bola/" rel="ugc"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="Paypal" /></a>
+<a href="https://www.facebook.com/nhoke.bola/" target="_blank" rel="ugc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" /></a>
+<a href="https://www.facebook.com/nhoke.bola/" target="_blank" rel="ugc"><img src="https://static.mservice.io/img/logo-momo.png" alt="MoMo" height="42" width="42" /></a>
